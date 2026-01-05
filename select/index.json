@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "NG",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-01-05T13:41:02.188694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arx/Ng 891",
+      "artist": "Candlemass",
+      "has_synced": true,
+      "path": "select/01_Arx_Ng_891_Candlemass.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ana Ng",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/02_Ana_Ng_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hinahanap Ng Puso",
+      "artist": "Gloc 9 & Hannah Romawac",
+      "has_synced": true,
+      "path": "select/03_Hinahanap_Ng_Puso_Gloc_9_&_Hannah_Romawac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Katulad Ng Iba",
+      "artist": "Zia Quizon feat. Gloc-9",
+      "has_synced": true,
+      "path": "select/04_Katulad_Ng_Iba_Zia_Quizon_feat._Gloc-9.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Katulad Ng Iba",
+      "artist": "Gloc 9, Zia Quizon",
+      "has_synced": true,
+      "path": "select/05_Katulad_Ng_Iba_Gloc_9,_Zia_Quizon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sa Gitna Ng Ulan",
+      "artist": "Curse One feat. Smugglaz & Vlync",
+      "has_synced": true,
+      "path": "select/06_Sa_Gitna_Ng_Ulan_Curse_One_feat._Smugglaz_&_Vlync.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sa Gitna Ng Ulan (feat. Smugglaz & Vlync)",
+      "artist": "Curse One, Smugglaz, Vlync",
+      "has_synced": true,
+      "path": "select/07_Sa_Gitna_Ng_Ulan_(feat._Smugglaz_&_Vlync)_Curse_One,_Smugglaz,_Vlync.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dulo Ng Hangganan",
+      "artist": "IV Of Spades",
+      "has_synced": true,
+      "path": "select/08_Dulo_Ng_Hangganan_IV_Of_Spades.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "iiwan ng lahat",
+      "artist": "zild",
+      "has_synced": true,
+      "path": "select/09_iiwan_ng_lahat_zild.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "iiwanan ng lahat",
+      "artist": "ZILD",
+      "has_synced": true,
+      "path": "select/10_iiwanan_ng_lahat_ZILD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "takbo ng panahon",
+      "artist": "zild",
+      "has_synced": true,
+      "path": "select/11_takbo_ng_panahon_zild.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Apoy Ng Kandila",
+      "artist": "Unique",
+      "has_synced": true,
+      "path": "select/12_Apoy_Ng_Kandila_Unique.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Apoy Ng Kandila",
+      "artist": "Unique Salonga",
+      "has_synced": true,
+      "path": "select/13_Apoy_Ng_Kandila_Unique_Salonga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ana NG",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/14_Ana_NG_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Alalay Ng Hari",
+      "artist": "Gloc 9 feat. Johnoy Danao",
+      "has_synced": true,
+      "path": "select/15_Alalay_Ng_Hari_Gloc_9_feat._Johnoy_Danao.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alalay Ng Hari",
+      "artist": "Gloc-9",
+      "has_synced": true,
+      "path": "select/16_Alalay_Ng_Hari_Gloc-9.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hari Ng Tondo",
+      "artist": "Gloc 9 feat. Denise Barbacena",
+      "has_synced": false,
+      "path": "select/17_Hari_Ng_Tondo_Gloc_9_feat._Denise_Barbacena.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hari Ng Tondo",
+      "artist": "Gloc-9",
+      "has_synced": true,
+      "path": "select/18_Hari_Ng_Tondo_Gloc-9.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "flipp!ng a coin",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/19_flipp!ng_a_coin_Billlie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NG",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_NG_ちゃんみな.txt"
+    }
+  ]
+}
